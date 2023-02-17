@@ -1,0 +1,21 @@
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\bin\Debug\net6.0-windows\C sharp 2 prakticheskaya.exe
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\bin\Debug\net6.0-windows\C sharp 2 prakticheskaya.deps.json
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\bin\Debug\net6.0-windows\C sharp 2 prakticheskaya.runtimeconfig.json
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\bin\Debug\net6.0-windows\C sharp 2 prakticheskaya.dll
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\bin\Debug\net6.0-windows\C sharp 2 prakticheskaya.pdb
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.csproj.AssemblyReference.cache
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya_MarkupCompile.cache
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya_MarkupCompile.lref
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.g.resources
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.AssemblyInfoInputs.cache
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.AssemblyInfo.cs
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.dll
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\refint\C sharp 2 prakticheskaya.dll
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.pdb
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\C sharp 2 prakticheskaya.genruntimeconfig.cache
+C:\Users\egork\source\repos\C sharp 2 prakticheskaya\obj\Debug\net6.0-windows\ref\C sharp 2 prakticheskaya.dll
